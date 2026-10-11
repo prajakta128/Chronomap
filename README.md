@@ -1117,7 +1117,7 @@ cm.unsubscribe('app.config', my_callback)
 
 ## 🧪 Testing
 
-ChronoMap has **141 comprehensive tests** with **97% code coverage**.
+ChronoMap has **134 comprehensive tests** with **97% code coverage**.
 
 ```bash
 # Run all tests
